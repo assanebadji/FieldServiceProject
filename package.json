@@ -1,0 +1,67 @@
+{
+    "name": "FieldServiceApp",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node node_modules/react-native/local-cli/cli.js start",
+        "test": "jest",
+        "android": "react-native  run-android",
+        "ios": "react-native run-ios",
+        "android-shake": "adb shell input keyevent 82"
+    },
+    "sdkDependencies": {
+        "SalesforceMobileSDK-Android": "https://github.com/forcedotcom/SalesforceMobileSDK-Android.git#v8.2.0",
+        "SalesforceMobileSDK-iOS": "https://github.com/forcedotcom/SalesforceMobileSDK-iOS.git#v8.2.0"
+    },
+    "dependencies": {
+        "@expo/vector-icons": "^10.2.0",
+        "@react-native-community/geolocation": "^2.0.2",
+        "@react-native-community/masked-view": "^0.1.10",
+        "@react-navigation/bottom-tabs": "^5.8.0",
+        "@react-navigation/drawer": "^5.9.0",
+        "@react-navigation/native": "^5.2.0",
+        "@react-navigation/stack": "^5.2.15",
+        "acorn": "^6.4.1",
+        "eslint": "^5.1.0",
+        "expo-auth-session": "^1.4.1",
+        "expo-font": "^8.2.2",
+        "haversine": "^1.1.1",
+        "native-base": "^2.13.14",
+        "prop-types": "^15.7.2",
+        "react": "^16.11.0",
+        "react-dom": "^16.13.1",
+        "react-hook-form": "^6.5.3",
+        "react-native": "0.62.2",
+        "react-native-autocomplete-input": "^4.2.0",
+        "react-native-autocomplete-search": "^1.0.8",
+        "react-native-dropdown-latest": "0.0.8",
+        "react-native-flash-message": "^0.1.16",
+        "react-native-force": "git+https://github.com/forcedotcom/SalesforceMobileSDK-ReactNative.git#v8.2.0",
+        "react-native-gesture-handler": "^1.6.1",
+        "react-native-maps": "0.27.1",
+        "react-native-maps-directions": "^1.8.0",
+        "react-native-option-select": "^1.0.4",
+        "react-native-picker-select": "^8.0.0",
+        "react-native-popup-menu": "^0.15.9",
+        "react-native-reanimated": "^1.8.0",
+        "react-native-safe-area-context": "^0.7.3",
+        "react-native-screens": "^2.7.0",
+        "react-native-side-menu": "^1.1.3",
+        "react-native-tab-view": "^2.15.1",
+        "react-navigation": "^4.4.0",
+        "react-select": "^3.1.0"
+    },
+    "devDependencies": {
+        "rimraf": "2.6.2",
+        "@babel/core": "^7.9.6",
+        "@babel/runtime": "^7.9.6",
+        "@react-native-community/eslint-config": "^0.0.3",
+        "babel-jest": "^24.9.0",
+        "jest": "^24.9.0",
+        "metro-react-native-babel-preset": "^0.54.1",
+        "react-test-renderer": "16.11.0"
+    },
+    "jest": {
+        "preset": "react-native"
+    }
+}

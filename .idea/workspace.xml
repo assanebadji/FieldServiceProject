@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e7cd249-6570-43b9-8ea2-ec065a9d81aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/AccountEditor/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/AccountEditor/assets/www/AccountEditor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/AccountEditor/assets/www/bootconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/AccountEditor/assets/www/cordova.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/AccountEditor/assets/www/cordova_plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/AccountEditor/assets/www/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/AccountEditor/assets/www/js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/AccountEditor/assets/www/plugins" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/AccountEditor/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/AccountEditor/proguard.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/AccountEditor/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/AccountEditor/src/org/apache/cordova/whitelist/WhitelistPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/AccountEditor/src/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/MobileSyncExplorerHybrid/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/MobileSyncExplorerHybrid/assets/www/MobileSyncExplorer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/MobileSyncExplorerHybrid/assets/www/bootconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/MobileSyncExplorerHybrid/assets/www/cordova.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/MobileSyncExplorerHybrid/assets/www/cordova_plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/MobileSyncExplorerHybrid/assets/www/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/MobileSyncExplorerHybrid/assets/www/js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/MobileSyncExplorerHybrid/assets/www/plugins" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/MobileSyncExplorerHybrid/assets/www/userstore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/MobileSyncExplorerHybrid/assets/www/usersyncs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/MobileSyncExplorerHybrid/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/MobileSyncExplorerHybrid/proguard.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/MobileSyncExplorerHybrid/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/MobileSyncExplorerHybrid/src/org/apache/cordova/whitelist/WhitelistPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/MobileSyncExplorerHybrid/src/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/NoteSync/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/NoteSync/assets/www/NoteSync.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/NoteSync/assets/www/bootconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/NoteSync/assets/www/cordova.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/NoteSync/assets/www/cordova_plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/NoteSync/assets/www/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/NoteSync/assets/www/js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/NoteSync/assets/www/plugins" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/NoteSync/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/NoteSync/proguard.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/NoteSync/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/NoteSync/res/xml/servers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/NoteSync/src/com/salesforce/samples/notesync/ContentSoqlSyncDownTarget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/HybridSampleApps/NoteSync/src/org/apache/cordova/whitelist/WhitelistPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/hybrid/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/SalesforceReact/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/SmartStore/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/SmartStore/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/assets/test_credentials.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/proguard.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/res/drawable-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/res/drawable-ldpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/res/drawable-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/res/layout/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/res/raw/globalsyncs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/res/raw/usersyncs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/res/values/bootconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/res/xml/servers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/TestForceApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/config/SyncsConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/manager/LayoutSyncManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/manager/ManagerTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/manager/MetadataSyncManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/manager/SyncManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/manager/SyncManagerTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/target/BatchSyncUpTargetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/target/ParentChildrenOtherSyncTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/target/ParentChildrenSyncTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/target/ParentChildrenSyncTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/target/SoqlSyncDownTargetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/target/SyncUpTargetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/target/TestSyncDownTarget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/target/TestSyncUpTarget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/util/JSONTestHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/util/SOQLMutatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/util/SyncStateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/MobileSyncTest/src/com/salesforce/androidsdk/mobilesync/util/SyncUpdateCallbackQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceAnalyticsTest/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceAnalyticsTest/proguard.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceAnalyticsTest/res/drawable-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceAnalyticsTest/res/drawable-ldpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceAnalyticsTest/res/drawable-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceAnalyticsTest/res/layout/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceAnalyticsTest/res/values/bootconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceAnalyticsTest/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceAnalyticsTest/src/com/salesforce/androidsdk/analytics/logger/FileLoggerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceAnalyticsTest/src/com/salesforce/androidsdk/analytics/logger/SalesforceLoggerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceAnalyticsTest/src/com/salesforce/androidsdk/analytics/model/InstrumentationEventBuilderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceAnalyticsTest/src/com/salesforce/androidsdk/analytics/security/EncrypterStreamTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceAnalyticsTest/src/com/salesforce/androidsdk/analytics/security/EncryptorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceAnalyticsTest/src/com/salesforce/androidsdk/analytics/store/EventStoreManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/assets/test_credentials.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/assets/www/bootconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/assets/www/cordova.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/assets/www/dependencies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/assets/www/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/assets/www/libs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/assets/www/test/SFAbstractSmartStoreTestSuite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/assets/www/test/SFForceJSTestSuite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/assets/www/test/SFMobileSyncTestSuite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/assets/www/test/SFSDKInfoTestSuite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/assets/www/test/SFSmartStoreLoadTestSuite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/assets/www/test/SFSmartStoreTestSuite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/assets/www/test/SFTestRunnerPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/assets/www/test/SFTestSuite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/proguard.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/res/drawable-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/res/drawable-ldpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/res/drawable-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/res/xml/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/src/com/salesforce/androidsdk/phonegap/ForceJSTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/src/com/salesforce/androidsdk/phonegap/JSTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/src/com/salesforce/androidsdk/phonegap/JavaScriptPluginVersionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/src/com/salesforce/androidsdk/phonegap/MobileSyncJSTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/src/com/salesforce/androidsdk/phonegap/SDKInfoJSTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/src/com/salesforce/androidsdk/phonegap/SDKInfoPluginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/src/com/salesforce/androidsdk/phonegap/SmartStoreJSTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/src/com/salesforce/androidsdk/phonegap/SmartStoreLoadJSTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/src/com/salesforce/androidsdk/phonegap/app/SalesforceHybridTestApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/src/com/salesforce/androidsdk/phonegap/ui/SalesforceHybridTestActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceHybridTest/src/org/apache/cordova/whitelist/WhitelistPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/assets/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_alerttriangle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/assets/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_chevronleft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/assets/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_chevronright.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/assets/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/assets/drawable-mdpi/node_modules_reactnative_libraries_logbox_ui_logboximages_loader.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/assets/test_credentials.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/proguard.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/res/drawable-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/res/drawable-ldpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/res/drawable-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/res/layout/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/res/xml/servers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/src/com/salesforce/androidsdk/reactnative/ReactHarnessTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/src/com/salesforce/androidsdk/reactnative/ReactMobileSyncTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/src/com/salesforce/androidsdk/reactnative/ReactNetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/src/com/salesforce/androidsdk/reactnative/ReactOAuthTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/src/com/salesforce/androidsdk/reactnative/ReactSmartStoreTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/src/com/salesforce/androidsdk/reactnative/ReactTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/src/com/salesforce/androidsdk/reactnative/bridge/SalesforceTestBridge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/src/com/salesforce/androidsdk/reactnative/util/ReactActivityTestDelegate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/src/com/salesforce/androidsdk/reactnative/util/ReactNativeTestHost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/src/com/salesforce/androidsdk/reactnative/util/ReactTestActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/src/com/salesforce/androidsdk/reactnative/util/SalesforceReactTestApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/src/com/salesforce/androidsdk/reactnative/util/SalesforceReactTestPackage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceReactTest/src/com/salesforce/androidsdk/reactnative/util/TestResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/assets/test_credentials.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/assets/www/bootconfig_absoluteStartPage.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/assets/www/bootconfig_relativeUnauthenticatedStartPage.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/assets/www/bootconfig_remoteDeferredAuthNoUnauthenticatedStartPage.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/proguard.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/res/drawable-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/res/drawable-ldpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/res/drawable-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/res/layout/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/res/values/bootconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/res/xml/servers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/TestForceApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/accounts/UserAccountManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/accounts/UserAccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/app/SalesforceSDKManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/auth/HttpAccessTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/auth/IDPRequestHandlerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/auth/LoginServerManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/auth/OAuth2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/config/BootConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/config/RuntimeConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/rest/ClientManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/rest/RestClientTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/rest/RestRequestTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/rest/files/ConnectUriBuilderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/rest/files/FileRequestsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/rest/files/RenditionTypeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/security/KeyStoreWrapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/security/PasscodeManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/security/SalesforceKeyGeneratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/util/AuthConfigUtilTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/util/JSONObjectHelperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/util/JSONTestHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SalesforceSDKTest/src/com/salesforce/androidsdk/util/LogUtilTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/proguard.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/res/drawable-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/res/drawable-ldpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/res/drawable-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/res/layout/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/res/raw/globalstore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/res/raw/userstore.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/res/values/bootconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/TestForceApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/app/SmartStoreSDKManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/DBOpenHelperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/IndexSpecTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/KeyValueEncryptedFileStoreTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/QuerySpecTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/SmartSqlExternalStorageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/SmartSqlTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/SmartStoreAlterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/SmartStoreExternalStorageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/SmartStoreFTSExternalStorageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/SmartStoreFullTextSearchSpeedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/SmartStoreFullTextSearchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/SmartStoreInspectorActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/SmartStoreLoadExternalStorageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/SmartStoreLoadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/SmartStoreLoadTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/SmartStoreOtherLoadExternalStorageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/SmartStoreOtherLoadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/SmartStoreTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/SmartStoreTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/SoupSpecTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/store/StoreConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android/libs/test/SmartStoreTest/src/com/salesforce/androidsdk/util/JSONTestHelper.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mobile_sdk/SalesforceMobileSDK-Android" />
+  </component>
+  <component name="ProjectId" id="1gEMUPMyiGkMMlE038g9jiLkRSU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="FieldServiceNew" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e7cd249-6570-43b9-8ea2-ec065a9d81aa" name="Default Changelist" comment="" />
+      <created>1597675313797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597675313797</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" width="1089" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597675446006">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" width="1089" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1597675446006" />
+  </component>
+</project>

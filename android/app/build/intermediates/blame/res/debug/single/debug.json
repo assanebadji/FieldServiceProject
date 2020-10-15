@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\src\\main\\res\\drawable-hdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASSANE SOKHNA\\Desktop\\FieldServiceNew\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
